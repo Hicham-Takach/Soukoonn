@@ -11,6 +11,6 @@
   "desc_ar": "مبخرة تُستخدم لوضع وإشعال البخور، بتصميم منقوش وقمة نحاسية.",
   "desc_en": "",
   "is_set": false,
-  "hidden": true,
+  "hidden": false,
   "order": 10
 }
