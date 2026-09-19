@@ -1,0 +1,20 @@
+{
+  "name_ar": "طقم فناجين متدرجة",
+  "name_en": "Gradient Cup Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p036.webp",
+    "/images/products/p036-1.webp",
+    "/images/products/p036-2.webp",
+    "/images/products/p036-3.webp",
+    "/images/products/p036-4.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 830
+}

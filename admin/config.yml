@@ -1,0 +1,123 @@
+# Sveltia CMS configuration -- the store admin at /admin
+# Each product is one JSON file in content/products/. Saving commits it to the
+# repo, which triggers .github/workflows/deploy.yml to republish the site.
+
+backend:
+  name: github
+  repo: Hicham-Takach/Soukoonn
+  branch: main
+
+site_url: https://soukoonn.com
+display_url: https://soukoonn.com
+
+# Uploaded photos land here and are shrunk + converted to WebP in the browser
+# before upload, so a large phone photo is fine.
+media_folder: images/products
+public_folder: /images/products
+media_libraries:
+  default:
+    config:
+      slugify_filename: true
+      transformations:
+        raster_image:
+          format: webp
+          quality: 82
+          width: 1000
+          height: 1000
+
+collections:
+  - name: products
+    label: "Products · المنتجات"
+    label_singular: "Product · منتج"
+    description: "Add or edit products. Changes appear on the website 1–2 minutes after saving. · أضف منتجاً أو عدّله، ويظهر التعديل على الموقع خلال دقيقة أو دقيقتين."
+    folder: content/products
+    format: json
+    extension: json
+    create: true
+    delete: true
+    identifier_field: name_ar
+    # Timestamp file names: unique, and no trouble with Arabic titles.
+    slug: "{{year}}{{month}}{{day}}-{{hour}}{{minute}}{{second}}"
+    summary: "{{name_ar}}"
+    sortable_fields: [name_ar, price, category]
+    fields:
+      - label: "Name (Arabic) · الاسم بالعربية"
+        name: name_ar
+        widget: string
+
+      - label: "Name (English) · الاسم بالإنكليزية"
+        name: name_en
+        widget: string
+        required: false
+
+      # Values must match CATEGORIES in scripts/build.mjs and the sections in index.html.
+      - label: "Category · القسم"
+        name: category
+        widget: select
+        default: antiques
+        options:
+          - { label: "Burners · مباخر", value: mabakhir }
+          - { label: "Bakhoor · بخور", value: bakhoor }
+          - { label: "Accessories · إكسسوارات", value: accessories }
+          - { label: "Turkish antiques · تحف تركية", value: antiques }
+          - { label: "Natural soap · صابون طبيعي", value: soap }
+          - { label: "Scented candles · شموع معطرة", value: candles }
+
+      - label: "Price (USD) · السعر بالدولار"
+        name: price
+        widget: number
+        value_type: float
+        min: 0
+        required: false
+        hint: "Leave empty to show “Price TBD”. · اتركه فارغاً ليظهر «السعر لاحقاً»."
+
+      - label: "Photos · الصور"
+        name: images
+        widget: list
+        min: 1
+        hint: "The first photo is the main one. Best look: white background, product centred, square photo. · الصورة الأولى هي الرئيسية. الأفضل: خلفية بيضاء، المنتج في الوسط، صورة مربعة."
+        field:
+          label: "Photo · صورة"
+          name: image
+          widget: image
+
+      - label: "Size (Arabic) · الحجم بالعربية"
+        name: size_ar
+        widget: string
+        required: false
+        hint: "Optional, e.g. حجم كبير or ٦ قطع."
+
+      - label: "Size (English) · الحجم بالإنكليزية"
+        name: size_en
+        widget: string
+        required: false
+        hint: "Optional, e.g. Large, 6 pcs."
+
+      - label: "Description (Arabic) · الوصف بالعربية"
+        name: desc_ar
+        widget: text
+        required: false
+
+      - label: "Description (English) · الوصف بالإنكليزية"
+        name: desc_en
+        widget: text
+        required: false
+
+      - label: "Set of pieces · طقم"
+        name: is_set
+        widget: boolean
+        default: false
+        hint: "Shows a “Set” badge with the piece count. · يُظهر شارة «طقم» وعدد القطع."
+
+      - label: "Hide from website · إخفاء من الموقع"
+        name: hidden
+        widget: boolean
+        default: false
+        hint: "Removes it from the site without deleting it. · يخفي المنتج دون حذفه."
+
+      - label: "Order · الترتيب"
+        name: order
+        widget: number
+        value_type: int
+        required: false
+        hint: "Optional. Smaller numbers appear first; new products without a number appear at the top of their section. · اختياري. الرقم الأصغر يظهر أولاً."

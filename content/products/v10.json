@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم ترام إسطنبول - وسط",
+  "name_en": "Istanbul Tram Model — Medium",
+  "category": "antiques",
+  "price": 25,
+  "size_ar": "حجم وسط",
+  "size_en": "Medium",
+  "images": [
+    "/images/products/v10.webp"
+  ],
+  "desc_ar": "مجسم ترام تقسيم الشهير من المعدن، الحجم الوسط.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2440
+}

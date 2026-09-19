@@ -1,0 +1,16 @@
+{
+  "name_ar": "طقم شاي",
+  "name_en": "Tea Service Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p046.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 930
+}

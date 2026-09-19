@@ -1,0 +1,16 @@
+{
+  "name_ar": "مبخرة قبة ذهبية",
+  "name_en": "Gold Dome Burner",
+  "category": "mabakhir",
+  "price": 8,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk10.webp"
+  ],
+  "desc_ar": "نفس تصميم القبة على قاعدة مربعة منقوشة، بلون ذهبي لامع.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 60
+}

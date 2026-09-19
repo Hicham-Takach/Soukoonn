@@ -1,0 +1,16 @@
+{
+  "name_ar": "حقيبة قش منسوجة",
+  "name_en": "Woven Straw Bag",
+  "category": "accessories",
+  "price": 15,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p005.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 550
+}

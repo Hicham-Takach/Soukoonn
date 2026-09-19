@@ -1,0 +1,22 @@
+{
+  "name_ar": "طقم زبديات مزهرة",
+  "name_en": "Floral Bowl Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p010.webp",
+    "/images/products/p010-1.webp",
+    "/images/products/p010-2.webp",
+    "/images/products/p010-3.webp",
+    "/images/products/p010-4.webp",
+    "/images/products/p010-5.webp",
+    "/images/products/p010-6.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 600
+}

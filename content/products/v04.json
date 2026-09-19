@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم دراجة نارية - فيروزي",
+  "name_en": "Metal Motorcycle Model — Teal",
+  "category": "antiques",
+  "price": 20,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/v04.webp"
+  ],
+  "desc_ar": "مجسم دراجة نارية معدني بلون فيروزي مع صندوق خلفي.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2380
+}

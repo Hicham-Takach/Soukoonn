@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم ترام إسطنبول - كبير",
+  "name_en": "Istanbul Tram Model — Large",
+  "category": "antiques",
+  "price": 35,
+  "size_ar": "حجم كبير",
+  "size_en": "Large",
+  "images": [
+    "/images/products/v09.webp"
+  ],
+  "desc_ar": "مجسم ترام تقسيم الشهير من المعدن، الحجم الكبير.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2430
+}

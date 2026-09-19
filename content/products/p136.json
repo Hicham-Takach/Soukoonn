@@ -1,0 +1,16 @@
+{
+  "name_ar": "بخور روعة",
+  "name_en": "Bakhoor Rawah",
+  "category": "bakhoor",
+  "price": 7,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p136.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 1820
+}

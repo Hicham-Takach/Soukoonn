@@ -1,0 +1,20 @@
+{
+  "name_ar": "طقم فناجين",
+  "name_en": "Stacked Cup Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p030.webp",
+    "/images/products/p030-1.webp",
+    "/images/products/p030-2.webp",
+    "/images/products/p030-3.webp",
+    "/images/products/p030-4.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 780
+}

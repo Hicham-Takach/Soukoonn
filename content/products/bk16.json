@@ -1,0 +1,16 @@
+{
+  "name_ar": "مبخرة خشبية هرمية",
+  "name_en": "Wood Pyramid Box Burner",
+  "category": "mabakhir",
+  "price": 4,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk16.webp"
+  ],
+  "desc_ar": "علبة خشبية بغطاء هرمي مثقب لتصريف الدخان، عملية وبسيطة لحفظ البخور وإشعاله.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 120
+}

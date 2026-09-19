@@ -1,0 +1,22 @@
+{
+  "name_ar": "طقم فناجين بورسلان",
+  "name_en": "Porcelain Cup Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p039.webp",
+    "/images/products/p039-1.webp",
+    "/images/products/p039-2.webp",
+    "/images/products/p039-3.webp",
+    "/images/products/p039-4.webp",
+    "/images/products/p039-5.webp",
+    "/images/products/p039-6.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 860
+}

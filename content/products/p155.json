@@ -1,0 +1,16 @@
+{
+  "name_ar": "أنفاس بخور بودرة",
+  "name_en": "Anfas Bakhoor Powder",
+  "category": "bakhoor",
+  "price": 4,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p155.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2010
+}

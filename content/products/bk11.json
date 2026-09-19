@@ -1,0 +1,16 @@
+{
+  "name_ar": "مبخرة إطار ماسي",
+  "name_en": "Diamond Frame Burner",
+  "category": "mabakhir",
+  "price": 35,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk11.webp"
+  ],
+  "desc_ar": "مبخرة بتصميم إطار هندسي مزخرف على شكل معين، قطعة مميزة تلفت الأنظار.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 70
+}

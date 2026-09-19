@@ -1,0 +1,16 @@
+{
+  "name_ar": "مبخرة قبة فضية",
+  "name_en": "Silver Dome Burner",
+  "category": "mabakhir",
+  "price": 8,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk9.webp"
+  ],
+  "desc_ar": "مبخرة على قاعدة مربعة منقوشة بأشكال هلال ونجوم، بلون فضي أنيق.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 50
+}

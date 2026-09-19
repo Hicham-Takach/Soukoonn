@@ -1,0 +1,19 @@
+{
+  "name_ar": "طقم تماثيل صغيرة",
+  "name_en": "Small Figurine Set",
+  "category": "antiques",
+  "price": 6,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p114.webp",
+    "/images/products/p114-1.webp",
+    "/images/products/p114-2.webp",
+    "/images/products/p114-3.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 1600
+}

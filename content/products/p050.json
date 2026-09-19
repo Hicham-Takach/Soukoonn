@@ -1,0 +1,16 @@
+{
+  "name_ar": "زجاجة عطر",
+  "name_en": "Perfume Bottle",
+  "category": "accessories",
+  "price": 17,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p050.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 970
+}

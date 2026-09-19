@@ -1,0 +1,21 @@
+{
+  "name_ar": "طقم زبديات مزججة",
+  "name_en": "Glazed Bowl Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p011.webp",
+    "/images/products/p011-1.webp",
+    "/images/products/p011-2.webp",
+    "/images/products/p011-3.webp",
+    "/images/products/p011-4.webp",
+    "/images/products/p011-5.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 610
+}

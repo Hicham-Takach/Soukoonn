@@ -1,0 +1,20 @@
+{
+  "name_ar": "طقم فناجين خزفية",
+  "name_en": "Ceramic Cup Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p008.webp",
+    "/images/products/p008-1.webp",
+    "/images/products/p008-2.webp",
+    "/images/products/p008-3.webp",
+    "/images/products/p008-4.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 580
+}

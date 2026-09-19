@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم شاحنة كلاسيكية معدني",
+  "name_en": "Vintage Metal Pickup Truck Model",
+  "category": "antiques",
+  "price": 40,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/v02.webp"
+  ],
+  "desc_ar": "مجسم شاحنة صغيرة كلاسيكية من المعدن بلون كريمي ولمسة عتيقة.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2360
+}

@@ -1,0 +1,16 @@
+{
+  "name_ar": "مزهرية بنقش الخشب",
+  "name_en": "Wood Grain Vase",
+  "category": "antiques",
+  "price": 30,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p104.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 1500
+}

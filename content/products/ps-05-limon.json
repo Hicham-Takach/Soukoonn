@@ -1,0 +1,16 @@
+{
+  "name_ar": "ليمون",
+  "name_en": "Purlavie lemon (100g)",
+  "category": "soap",
+  "price": 4,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/ps-05-limon.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "Sponge soap / صابونة طبيعية مع ليفة",
+  "is_set": false,
+  "hidden": false,
+  "order": 2100
+}

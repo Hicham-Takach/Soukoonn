@@ -1,0 +1,16 @@
+{
+  "name_ar": "تمثالان",
+  "name_en": "Figurine Pair",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p093.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 1400
+}

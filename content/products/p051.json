@@ -1,0 +1,22 @@
+{
+  "name_ar": "طقم برطمانات بخور",
+  "name_en": "Bakhoor Jar Set",
+  "category": "bakhoor",
+  "price": 40,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p051.webp",
+    "/images/products/p051-1.webp",
+    "/images/products/p051-2.webp",
+    "/images/products/p051-3.webp",
+    "/images/products/p051-4.webp",
+    "/images/products/p051-5.webp",
+    "/images/products/p051-6.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 980
+}

@@ -1,0 +1,22 @@
+{
+  "name_ar": "طقم فناجين مزخرفة",
+  "name_en": "Painted Tea Cup Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p007.webp",
+    "/images/products/p007-1.webp",
+    "/images/products/p007-2.webp",
+    "/images/products/p007-3.webp",
+    "/images/products/p007-4.webp",
+    "/images/products/p007-5.webp",
+    "/images/products/p007-6.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 570
+}

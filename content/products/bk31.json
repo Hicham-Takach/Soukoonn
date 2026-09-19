@@ -1,0 +1,16 @@
+{
+  "name_ar": "بخور عنبر",
+  "name_en": "Amber Incense Sticks",
+  "category": "bakhoor",
+  "price": 5,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk31.webp"
+  ],
+  "desc_ar": "عصي دهن ممتازة بعبق العنبر الدافئ، بخور عراقي طبيعي عالي الجودة.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 270
+}

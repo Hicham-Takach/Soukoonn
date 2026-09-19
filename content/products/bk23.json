@@ -1,0 +1,16 @@
+{
+  "name_ar": "مبخرة المشهد الجبلي",
+  "name_en": "Mountain Landscape Backflow Burner",
+  "category": "mabakhir",
+  "price": 10,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk23.webp"
+  ],
+  "desc_ar": "مبخرة بخور عكسي بتصميم جبل وشجرة وبيت صغير، يتدفق الدخان كأنه شلال بين الصخور.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 190
+}

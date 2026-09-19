@@ -1,0 +1,20 @@
+{
+  "name_ar": "طقم فناجين مزخرفة",
+  "name_en": "Painted Cup Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p020.webp",
+    "/images/products/p020-1.webp",
+    "/images/products/p020-2.webp",
+    "/images/products/p020-3.webp",
+    "/images/products/p020-4.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 690
+}

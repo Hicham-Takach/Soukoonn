@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم دراجة نارية معدني",
+  "name_en": "Vintage Metal Motorcycle Model",
+  "category": "antiques",
+  "price": 40,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/v01.webp"
+  ],
+  "desc_ar": "مجسم دراجة نارية كلاسيكية من المعدن بتفاصيل يدوية دقيقة، قطعة ديكور مميزة.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2350
+}

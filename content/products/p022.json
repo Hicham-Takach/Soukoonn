@@ -1,0 +1,19 @@
+{
+  "name_ar": "طقم زبديات خزفية",
+  "name_en": "Ceramic Bowl Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p022.webp",
+    "/images/products/p022-1.webp",
+    "/images/products/p022-2.webp",
+    "/images/products/p022-3.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 710
+}

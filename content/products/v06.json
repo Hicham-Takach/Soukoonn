@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم باص كلاسيكي معدني",
+  "name_en": "Vintage Metal Bus Model",
+  "category": "antiques",
+  "price": 40,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/v06.webp"
+  ],
+  "desc_ar": "مجسم باص كلاسيكي من المعدن مع حقائب على السطح، قطعة ديكور نوستالجية.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2400
+}

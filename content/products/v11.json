@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم ترام إسطنبول - صغير",
+  "name_en": "Istanbul Tram Model — Small",
+  "category": "antiques",
+  "price": 15,
+  "size_ar": "حجم صغير",
+  "size_en": "Small",
+  "images": [
+    "/images/products/v11.webp"
+  ],
+  "desc_ar": "مجسم ترام تقسيم الشهير من المعدن، الحجم الصغير.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2450
+}

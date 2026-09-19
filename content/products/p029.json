@@ -1,0 +1,22 @@
+{
+  "name_ar": "إبريق شاي مع أغطية",
+  "name_en": "Teapot with Lid Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p029.webp",
+    "/images/products/p029-1.webp",
+    "/images/products/p029-2.webp",
+    "/images/products/p029-3.webp",
+    "/images/products/p029-4.webp",
+    "/images/products/p029-5.webp",
+    "/images/products/p029-6.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 770
+}

@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم سيارة كلاسيكية معدنية",
+  "name_en": "Vintage Metal Classic Car Model",
+  "category": "antiques",
+  "price": 40,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/v07.webp"
+  ],
+  "desc_ar": "مجسم سيارة كلاسيكية قديمة من المعدن بتفاصيل غنية وحامل أمتعة.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2410
+}

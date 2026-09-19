@@ -1,0 +1,17 @@
+{
+  "name_ar": "صابون كولاجين بليف القرع",
+  "name_en": "Kolajen Pumpkin Fiber Soap",
+  "category": "soap",
+  "price": 4,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p001.webp",
+    "/images/products/p001-1.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 530
+}

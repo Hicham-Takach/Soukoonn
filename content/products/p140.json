@@ -1,0 +1,16 @@
+{
+  "name_ar": "بخور جواد",
+  "name_en": "Bakhoor Jawad",
+  "category": "bakhoor",
+  "price": 7,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p140.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 1860
+}

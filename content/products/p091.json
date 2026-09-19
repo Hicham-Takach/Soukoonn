@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجموعة صابون منوعة",
+  "name_en": "Assorted Soap Collection",
+  "category": "soap",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p091.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 1380
+}

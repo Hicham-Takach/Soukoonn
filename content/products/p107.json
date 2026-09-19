@@ -1,0 +1,16 @@
+{
+  "name_ar": "تمثال مزخرف",
+  "name_en": "Decorated Figure",
+  "category": "antiques",
+  "price": 5,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p107.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 1530
+}

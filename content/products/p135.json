@@ -1,0 +1,16 @@
+{
+  "name_ar": "علبة بخور خواطر",
+  "name_en": "Khawater Bakhoor Tin",
+  "category": "bakhoor",
+  "price": 7,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p135.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 1810
+}

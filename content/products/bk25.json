@@ -1,0 +1,16 @@
+{
+  "name_ar": "مبخرة نافورة الإبريق",
+  "name_en": "Teapot Fountain Backflow Burner",
+  "category": "mabakhir",
+  "price": 25,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk25.webp"
+  ],
+  "desc_ar": "مبخرة بخور عكسي على شكل إبريق شاي فوق نافورة خشبية، تصميم فريد وأنيق.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 210
+}

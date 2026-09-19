@@ -1,0 +1,25 @@
+{
+  "name_ar": "طقم لوحات مؤطرة",
+  "name_en": "Framed Art Set",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p088.webp",
+    "/images/products/p088-1.webp",
+    "/images/products/p088-2.webp",
+    "/images/products/p088-3.webp",
+    "/images/products/p088-4.webp",
+    "/images/products/p088-5.webp",
+    "/images/products/p088-6.webp",
+    "/images/products/p088-7.webp",
+    "/images/products/p088-8.webp",
+    "/images/products/p088-9.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 1350
+}

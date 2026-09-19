@@ -1,0 +1,16 @@
+{
+  "name_ar": "مجسم دراجة نارية - أحمر",
+  "name_en": "Metal Motorcycle Model — Red",
+  "category": "antiques",
+  "price": 20,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/v05.webp"
+  ],
+  "desc_ar": "مجسم دراجة نارية معدني بلون أحمر مع صندوق خلفي.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 2390
+}

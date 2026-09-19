@@ -1,0 +1,18 @@
+{
+  "name_ar": "تمثال قارب منحوت",
+  "name_en": "Carved Boat Figurine",
+  "category": "antiques",
+  "price": null,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/p043.webp",
+    "/images/products/p043-1.webp",
+    "/images/products/p043-2.webp"
+  ],
+  "desc_ar": "",
+  "desc_en": "",
+  "is_set": true,
+  "hidden": false,
+  "order": 900
+}

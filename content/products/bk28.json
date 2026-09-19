@@ -1,0 +1,16 @@
+{
+  "name_ar": "بخور روز",
+  "name_en": "Rose Incense Sticks",
+  "category": "bakhoor",
+  "price": 5,
+  "size_ar": "",
+  "size_en": "",
+  "images": [
+    "/images/products/bk28.webp"
+  ],
+  "desc_ar": "عصي دهن ممتازة بعبق الورد، بخور عراقي طبيعي عالي الجودة.",
+  "desc_en": "",
+  "is_set": false,
+  "hidden": false,
+  "order": 240
+}
