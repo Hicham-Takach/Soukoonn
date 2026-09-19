@@ -6,6 +6,13 @@ backend:
   name: github
   repo: Hicham-Takach/Soukoonn
   branch: main
+  # "Sign in with GitHub" goes through this Cloudflare Worker (Sveltia's
+  # sveltia-cms-auth) in the client's Cloudflare account. It holds the OAuth
+  # app secret; only soukoonn.com is allowed to receive tokens from it.
+  base_url: https://soukoonn-auth.takachhicham.workers.dev
+  # The repo is public, so ask GitHub for public-repo access only -- the login
+  # token then can't touch any private repositories on the client's account.
+  auth_scope: public_repo
 
 site_url: https://soukoonn.com
 display_url: https://soukoonn.com
